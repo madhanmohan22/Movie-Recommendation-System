@@ -72,7 +72,7 @@ How to run?
 STEPS:
 Clone the repository
 
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/madhanmohan22/Movie-Recommendation-System.git
 STEP 01- Create a conda environment after opening the repository
 conda create -n movie python=3.7.10 -y
 conda activate movie
